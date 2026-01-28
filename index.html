@@ -382,7 +382,7 @@
         // Carregar produtos do JSON
         async function loadProducts() {
             try {
-                const response = await fetch('/data/products.json');
+                const response = await fetch('/public/data/products.json');
                 products = await response.json();
                 renderProducts();
             } catch (error) {
