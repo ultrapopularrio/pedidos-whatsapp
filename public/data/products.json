@@ -1,0 +1,96 @@
+[
+  {
+    "id": "fralda-babysec-hiper",
+    "name": "Fralda Baby Sec Hiper",
+    "price": 59.99,
+    "image": "/images/fralda-babysec.jpg",
+    "category": "Fraldas",
+    "variants": [
+      { "id": "p", "label": "P", "value": "P" },
+      { "id": "m", "label": "M", "value": "M" },
+      { "id": "g", "label": "G", "value": "G" },
+      { "id": "xg", "label": "XG", "value": "XG" }
+    ]
+  },
+  {
+    "id": "fralda-babysec-mega",
+    "name": "Fralda Babysec Mega",
+    "price": 32.99,
+    "image": "/images/fralda-babysec.jpg",
+    "category": "Fraldas",
+    "variants": [
+      { "id": "p", "label": "P", "value": "P" },
+      { "id": "m", "label": "M", "value": "M" },
+      { "id": "g", "label": "G", "value": "G" },
+      { "id": "xg", "label": "XG", "value": "XG" }
+    ]
+  },
+  {
+    "id": "mucilon-sache",
+    "name": "Mucilon Sachê",
+    "price": 32.99,
+    "image": "/images/mucilon.jpg",
+    "category": "Alimentos",
+    "variants": [
+      { "id": "milho", "label": "Milho", "value": "Milho" },
+      { "id": "arroz", "label": "Arroz", "value": "Arroz" },
+      { "id": "aveia", "label": "Aveia", "value": "Aveia" }
+    ]
+  },
+  {
+    "id": "toalha-bebe-limpinho",
+    "name": "Toalha Bebê Limpinho Cimed 140un",
+    "price": 7.99,
+    "image": "/images/toalha-bebe.jpg",
+    "category": "Higiene",
+    "variants": []
+  },
+  {
+    "id": "leite-ninho-integral",
+    "name": "Leite Ninho Integral 380G",
+    "price": 17.99,
+    "image": "/images/leite-ninho.jpg",
+    "category": "Alimentos",
+    "variants": []
+  },
+  {
+    "id": "composto-lacteo-ninho",
+    "name": "Composto Lácteo Ninho Fases +1 800G",
+    "price": 42.99,
+    "image": "/images/composto-lacteo.jpg",
+    "category": "Alimentos",
+    "variants": []
+  },
+  {
+    "id": "formula-aptamil-premium",
+    "name": "Fórmula Inf Aptamil Premium 2 800g",
+    "price": 57.99,
+    "image": "/images/formula-aptamil.jpg",
+    "category": "Alimentos",
+    "variants": []
+  },
+  {
+    "id": "repelente-off-locao",
+    "name": "Repelente OFF Loção Family 200ml Emb Econômica",
+    "price": 14.99,
+    "image": "/images/repelente-off.jpg",
+    "category": "Higiene",
+    "variants": []
+  },
+  {
+    "id": "nistatina-oxido-zinco",
+    "name": "Nistatina + Óxido de Zinco 60g Neo Química",
+    "price": 7.99,
+    "image": "/images/nistatina-oxido.jpg",
+    "category": "Higiene",
+    "variants": []
+  },
+  {
+    "id": "sab-granado-bebe",
+    "name": "Sabonete Granado Bebê 250 ml Refil Tradicional",
+    "price": 14.99,
+    "image": "/images/sabonete-granado.jpg",
+    "category": "Higiene",
+    "variants": []
+  }
+]
